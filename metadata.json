@@ -1,0 +1,5 @@
+{
+  "name": "Cursor Clone - Gemini AI Studio Edition",
+  "description": "A high-performance IDE clone featuring a code editor, integrated terminal simulator, and advanced AI assistance powered by Gemini 3.0 Pro.",
+  "requestFramePermissions": []
+}
